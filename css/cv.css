@@ -1,0 +1,34 @@
+#content{margin:15px 0 25px 0}
+
+#contentCV h3 {margin:20px 0 10px 0}
+
+#cvDownload {border-right:1px solid #CCC;height:755px;width:200px;padding:0 10px 0 0}
+
+#pdf:hover{background:#FF7700}
+#doc:hover{background:#FF7700}
+#linkedin:hover{background:#FF7700}
+#blurb:hover{background:#FF7700}
+
+#pdf {background:#F00;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;color:#FFF;margin: 0 1px 0;padding:5px 0 6px 0;text-align:center}
+#doc {background:#F00;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;color:#FFF;margin:1px 0 0 0;padding:5px 0 6px 0;text-align:center} 
+#linkedin {background:#CCC;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;color:#FFF;margin:11px 0 0 0;padding:5px 0 6px 0;text-align:center} 
+#blurb {background:#CCC;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;color:#FFF;margin:1px 0 0 0;padding:5px 0 6px 0;text-align:center} 
+
+.myPic {margin:25px 0 0 0}
+.myDetailMain {color:#787878;font-style:italic}
+.myDetailSub {text-indent:25px}
+
+#cvResume{padding: 0 15px 0 15px;width:659px}
+#cvResume h4{font-style:italic;margin:0}
+
+.infoCV {text-indent:25px}
+.work {margin:25px 0 0 0}
+.companyName {text-indent:50px}
+
+.companyName ul {list-style:none;margin:5px 0 0 0;padding:0}
+.explanation {text-indent:75px}
+.workDetail {font-size:14px;list-style:none;margin:5px 0 0 0;padding:0}
+
+.iconLink {background:#CCC}
+
+

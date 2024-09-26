@@ -1,0 +1,15 @@
+#panesPhoto {height:500px;margin:0 0 5px 0;position:relative;width:900px}
+.panesPhoto {display:none;position:absolute}
+
+#panesPhoto .infoContentPhoto{margin-top:15px;width:700px}
+
+.panesPhoto div p {font-size:14px}
+
+#IC1Photo1 {width:700px}
+
+.photoTextBox {width:700px}
+.photoDateLocation {color:#787878;font-style:italic}
+.infoPhotos {padding:10px;width:180px}
+.infoDetail {font-size:14px}
+.infoParagraph {height:350px}
+

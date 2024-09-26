@@ -1,0 +1,98 @@
+html {overflow-y:scroll}
+
+@font-face {font-family:'district';src:url(../font/District.eot),url(../font/District.otf) format('opentype'),url(../font/District.pfm) format('pfm'),url(../font/District.ttf) format('truetype');font-weight:normal;font-style:normal;font-variant:normal}
+
+body {font-family:'district',Corbel,vrinda;margin:0 auto}
+
+a {text-decoration:none}
+
+.bbLine {border-bottom:1px solid #CCC;padding-bottom:15px}
+
+.fl {float:left}
+.fr {float:right}
+.cb {clear:both}
+.cl {clear:left}
+.cr {clear:right}
+
+.font13 {font-size:13px}
+.font25 {font-size:25px}
+
+.indent25 {text-indent:25px}
+.italic {font-style:italic}
+
+.ml25 {margin-left:25px}
+.mt1 {margin-top:1px}
+.mt2 {margin-top:2px}
+.mt5 {margin-top:5px}
+.mt10 {margin-top:10px}
+
+section#bodyWrapper {margin:0 auto;width:900px}
+
+img {border:none}
+
+header {color:#787878;font-size:65px;height:75px;text-align:center;width:100%}
+
+#contentIndex {background:url(../images/cover.jpg);margin:15px 0 15px 0;padding:10px}
+.indexParagraph {height:300px;width:270px;margin:0 auto}
+.indexParagraph p{margin:0 auto;margin-top:3px}
+.indexParagraph .coverParagraph{color:#FFF;width:270px}
+.indexObject {height:300px;width:600px}
+
+nav {display:block;margin:0;padding:0;width:900px}
+.nav {padding:5px 0 0 0}
+a#lastMenu {text-align:right;margin-right:0}
+.menu a {font-size:20px;margin:0 45px 0 0;padding:0}
+.menu a:link{color:#787878}
+.menu a:visited{color:#787878}
+.menu a:hover{color:#F00;font-style:italic}
+.menu a:active{color:#FF0}
+.menu a.activeLink {color:#F00;font-style:italic}
+
+
+article div#panes {height:620px;position:relative;width:900px}
+article div#panes .panes{display:none;position:absolute}
+#panes #info {padding:10px;width:280px}
+#panes #infoContent{height:398px;margin-top:15px;width:600px}
+#panes #infoContent #IC1{height:100%;width:100%}
+#panes #infoContent #IC2{height:100%;width:100%}
+#panes #infoContent #IC3{height:100%;width:100%}
+#panes #infoContent #IC4{height:100%;width:100%}
+#panes #infoContent #IC5{height:100%;width:100%}
+#panes #infoContent #IC6{height:100%;width:100%}
+#panes .definitionTop {font-size:14px;margin-bottom:50px}
+
+
+article div#tabs {height:148px;margin-top:2px;width:900px}
+article div#tabs a {background:#CCC;float:left;height:148px;margin-right:1px;width:149px}
+article div#tabs a.lastIndex {margin-right:0;width:150px}
+article div#tabs a.current {opacity:0.5}
+
+#tabsPhotos {background:#CCC;height:296px;width:900px}
+#tabsPhotos a.current {opacity:0.5}
+
+.photoIndex1 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex2 {background:#FF9F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex3 {background:#FFC000;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex4 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex5 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex6 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex7 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex8 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex9 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex10 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex11 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+.photoIndex12 {background:#F00;float:left;height:148px;margin-right:1px;width:149px}
+
+#biography {margin:20px 0 10px 0}
+
+
+
+footer {display:block;margin-bottom:30px;width:900px}
+footer ul{margin:10px 0 0 0;padding:0}
+footer li {display:inline;list-style:none}
+footer li a{margin:0 15px 0 0;padding:0;text-align:left}
+footer li a:link {color:#787878}
+footer li a:visited {color:#787878}
+footer li a:hover {color:#F00;font-style:italic}
+footer li a:active {color:#FF0}
+footer li#copy {color:#787878;float:right}
